@@ -11,8 +11,8 @@ description: About NLP, Machine learning and dev stuffs
 github_username: owlmx
 
 # Email and twitter are optional:
-email: @owlmx
-twitter_username:
+email:
+twitter_username: owlmx
 
 # Set this to true to get LaTeX math equation support
 use_math: true
